@@ -1,8 +1,61 @@
-1.Differences between python version 2 and 3
+1.Differences between python version 2 and 3:
   a)Division operator
   b)print function
   c)Unicode
   d)xrange
   e)Error Handling
 
-2.Tools for 
+2.Tools for developing python:
+  a)BeeWare
+  b)BOA Constructor
+  c)Pycharm
+  d)Python IDE
+  e)Command Prompt
+  f)Visual studio code
+  
+3.Python tools in different domains:
+
+  * Data Science-
+         a)Scipy
+         b)Dask
+         c)Numba
+         d)HPAT
+         e)Cython
+         
+  * Machine Learning-
+         a)Shogun
+         b)Keras
+         c)Scikit-Learn
+         d)Pattern
+         e)Thano
+         f)Pandas
+         
+   * Cyber Security -   
+         a)Scapy
+         b)nmap
+         c)Metasploit
+         
+   * Networking-
+         a)Asyncio
+         b)Diesel
+         c)Pulsar
+         d)Twisted
+         
+   * Artificial Intelligence -
+         a)Tensorflow
+         b)Theano
+         c)Pybrain
+         d)Caffe
+         e)Pattern
+         
+    * Big data-     
+         a)Pyspark
+         b)Pandas
+         c)Scikit-Learn
+         
+    * Hacking-
+          a)Nitko
+          b)Wireshark
+          c)SQLMap
+         
+         
