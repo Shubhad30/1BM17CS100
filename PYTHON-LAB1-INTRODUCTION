@@ -15,14 +15,14 @@
   
 3.Python tools in different domains:
 
-  * Data Science-
+  1) Data Science-
          a)Scipy
          b)Dask
          c)Numba
          d)HPAT
          e)Cython
          
-  * Machine Learning-
+  2) Machine Learning-
          a)Shogun
          b)Keras
          c)Scikit-Learn
@@ -30,32 +30,37 @@
          e)Thano
          f)Pandas
          
-   * Cyber Security -   
+   3) Cyber Security -   
          a)Scapy
          b)nmap
          c)Metasploit
          
-   * Networking-
+   4) Networking-
          a)Asyncio
          b)Diesel
          c)Pulsar
          d)Twisted
          
-   * Artificial Intelligence -
+   5) Artificial Intelligence -
          a)Tensorflow
          b)Theano
          c)Pybrain
          d)Caffe
          e)Pattern
          
-    * Big data-     
+    6) Big data-     
          a)Pyspark
          b)Pandas
          c)Scikit-Learn
          
-    * Hacking-
+    7) Hacking-
           a)Nitko
           b)Wireshark
           c)SQLMap
+          
+    8)IoT-
+         a)Numpy
+         b)Mysqldb
+         c)Pandas
          
          
