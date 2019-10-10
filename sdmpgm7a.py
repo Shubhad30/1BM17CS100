@@ -17,9 +17,12 @@ def checkhappy(n):
     return (slow == 1)
 lp=[]
 for i in range(1,1001):
-    for j in range(2,i):
-        if(i%j)==0 and j not in lp:
-            lp.append(j)
+    if(i>1):
+         for j in range(2,i):
+              if(i%j)==0:
+                    break
+         else:
+            lp.append(i)
 f1=open("sprime.txt","w")
 for i in lp:
     f1.write(str(i))
